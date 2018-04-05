@@ -1,6 +1,6 @@
 # SaturationPeakAnalysis
 This archive contains the Python implementation of the custom made smoke detection
-algorithms SAN and SPA, described in [[1]](https://dl.acm.org/citation.cfm?doid=3126686.3126690). The files should be self explanatory
+algorithms SAN and SPA, described in <a href="https://dl.acm.org/citation.cfm?doid=3126686.3126690" target="_blank">[1]</a>. The files should be self explanatory
 and simply demonstrate the classification output of a desired input image with
 optional histogram output.
 
