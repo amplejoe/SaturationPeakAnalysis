@@ -1,6 +1,6 @@
 # SaturationPeakAnalysis
 This archive contains the Python implementation of the custom made smoke detection
-algorithms SAN and SPA, described in <a href="https://dl.acm.org/citation.cfm?doid=3126686.3126690" target="_blank">[1]</a>. The files should be self explanatory
+algorithms SAN and SPA, described in [[1]](#references). The files should be self explanatory
 and simply demonstrate the classification output of a desired input image with
 optional histogram output.
 
@@ -31,7 +31,7 @@ International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)) 
 is created as well as maintained by Distributed Multimedia Systems Group of the
 Institute of Information Technology (ITEC) at Alpen-Adria Universität in Klagenfurt,
 Austria. You are requested to cite the work that led to the creation of this code
-([[1]](https://dl.acm.org/citation.cfm?doid=3126686.3126690)).
+([[1]](#references)).
 
 ## References
 1.  A. Leibetseder, M. J. Primus, S. Petscharnig, K. Schoeffmann, Real-Time
