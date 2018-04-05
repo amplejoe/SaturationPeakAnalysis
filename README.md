@@ -12,7 +12,9 @@ Requirements:
 ## Contact:
 
 Andreas Leibetseder
-aleibets@itec.aau.at
+Institute of Information Technology
+Alpen-Adria University, Klagenfurt Austria
+aleibets[at]itec.aau.at
 
 ## Acknowledgements
 
