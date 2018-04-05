@@ -11,9 +11,9 @@ Requirements:
 
 ## Contact:
 
-Andreas Leibetseder
-Institute of Information Technology
-Alpen-Adria University, Klagenfurt Austria
+Andreas Leibetseder <br />
+Institute of Information Technology <br />
+Alpen-Adria University, Klagenfurt Austria <br />
 aleibets[at]itec.aau.at
 
 ## Acknowledgements
