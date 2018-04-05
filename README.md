@@ -9,8 +9,6 @@ Requirements:
 - Python 2.7+   (packages: numpy)
 - OpenCV        (Configured to work with Python)
 
-
-
 ## Contact:
 
 Andreas Leibetseder
@@ -24,7 +22,6 @@ the Carinthian Economic Promotion Fund (KWF) under grant KWF 20214 u.
 3520/26336/38165.
 
 ## License
-
 
 This source code is licensed under Creative Commons Attribution-NonCommercial 4.0
 International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)) and
