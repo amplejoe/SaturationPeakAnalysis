@@ -25,8 +25,7 @@ the Carinthian Economic Promotion Fund (KWF) under grant KWF 20214 u.
 
 ## License
 
-This source code is licensed under Creative Commons Attribution-NonCommercial 4.0
-International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)) and
+This source code is licensed under Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) and
 is created as well as maintained by Distributed Multimedia Systems Group of the
 Institute of Information Technology (ITEC) at Alpen-Adria Universität in Klagenfurt,
 Austria. You are requested to cite the work that led to the creation of this code
